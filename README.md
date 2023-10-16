@@ -11,3 +11,6 @@ Vamosa  a añadir mas notas
 
 ## Nuevos cambios
 * Estos cambios estan en local - remoto - Local
+
+
+## Nuevas lineas remotas
